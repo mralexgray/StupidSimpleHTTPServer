@@ -1,0 +1,247 @@
+TSimple HTTP Server
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Info.plist" Info.plist
+cStripNIB "/Users/localadmin/Downloads/Simple HTTP Server 2/English.lproj/MainMenu.nib"
+cCopyStringsFile "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+cCompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/main.o" "/Users/localadmin/Downloads/Simple HTTP Server 2/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/AppController.o" "/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPServer.o" "/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPServer.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPConnection.o" "/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPConnection.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/MacOS/Simple HTTP Server" normal i386
+cTouch "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app"
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk
+c00000000503F1B7700000000000000AA
+t1346313079
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c000000005112F3CA00000000000001E5
+t1360196554
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000510B1A240000000000006730
+t1359682084
+s26416
+
+N/System/Library/Frameworks/WebKit.framework/WebKit
+c00000000510B1A3B000000000044AF90
+t1359682107
+s4501392
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m
+c000000004519D9400000000000001503
+t1159321920
+s5379
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/English.lproj/InfoPlist.strings
+c00000000451AD14800000000000000C2
+t1159385416
+s194
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/English.lproj/MainMenu.nib
+c00000000451AD16200000000000000AA
+t1159385442
+s170
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPConnection.m
+c000000004519CEC20000000000000D71
+t1159319234
+s3441
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPServer.m
+c000000004519DDC80000000000002786
+t1159323080
+s10118
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app
+t2
+s0
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Info.plist
+t2
+s0
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/MacOS/Simple HTTP Server
+t2
+s0
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/AppController.o
+t2
+s0
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/Simple HTTP Server.LinkFileList
+c00000000513AE1C2000000000000024D
+t1362813378
+s589
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPConnection.o
+t2
+s0
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPServer.o
+t2
+s0
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/localadmin/Downloads/Simple HTTP Server 2/main.m
+c00000000451ADF3E00000000000000FA
+t1159388990
+s250
+i<Cocoa/Cocoa.h>
+
+NInfo.plist
+c000000004519DC480000000000000357
+t1159322696
+s855
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies7922584219ebb641^abae834219ebb641^---0#1#0#--18"Check dependencies36"52361CE6-AF0C-4283-9C82-4E4436318BCA-
+
+CCompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/AppController.o" "/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384506179.189520
+e384506180.494656
+r1
+xCompileC
+xbuild/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/AppController.o
+x/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m:115:44: warning: 'NSErrorFailingURLStringKey' is deprecated [-Wdeprecated-declarations]
+o            [[error userInfo] objectForKey:NSErrorFailingURLStringKey],
+o                                           ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:42:36: note: 'NSErrorFailingURLStringKey' declared here
+oFOUNDATION_EXPORT NSString * const NSErrorFailingURLStringKey NS_DEPRECATED(10_0, 10_6, 2_0, 4_0);
+o                                   ^
+o/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m:127:44: warning: 'NSErrorFailingURLStringKey' is deprecated [-Wdeprecated-declarations]
+o            [[error userInfo] objectForKey:NSErrorFailingURLStringKey],
+o                                           ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:42:36: note: 'NSErrorFailingURLStringKey' declared here
+oFOUNDATION_EXPORT NSString * const NSErrorFailingURLStringKey NS_DEPRECATED(10_0, 10_6, 2_0, 4_0);
+o                                   ^
+o/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m:145:4: warning: 'createDirectoryAtPath:attributes:' is deprecated [-Wdeprecated-declarations]
+o                [manager createDirectoryAtPath:basePath attributes:nil];
+o                 ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172:1: note: method 'createDirectoryAtPath:attributes:' declared here
+o- (BOOL)createDirectoryAtPath:(NSString *)path attributes:(NSDictionary *)attributes NS_DEPRECATED(10_0, 10_5, 2_0, 2_0);
+o^
+o/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m:150:4: warning: 'createDirectoryAtPath:attributes:' is deprecated [-Wdeprecated-declarations]
+o                [manager createDirectoryAtPath:appSupportFolder attributes:nil];        
+o                 ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172:1: note: method 'createDirectoryAtPath:attributes:' declared here
+o- (BOOL)createDirectoryAtPath:(NSString *)path attributes:(NSDictionary *)attributes NS_DEPRECATED(10_0, 10_5, 2_0, 2_0);
+o^
+o4 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m56d4304319ebb641^2c9e7e4419ebb641^-2526"/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m:115:44: warning: 'NSErrorFailingURLStringKey' is deprecated [-Wdeprecated-declarations]            [[error userInfo] objectForKey:NSErrorFailingURLStringKey],                                           ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:42:36: note: 'NSErrorFailingURLStringKey' declared hereFOUNDATION_EXPORT NSString * const NSErrorFailingURLStringKey NS_DEPRECATED(10_0, 10_6, 2_0, 4_0);                                   ^/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m:127:44: warning: 'NSErrorFailingURLStringKey' is deprecated [-Wdeprecated-declarations]            [[error userInfo] objectForKey:NSErrorFailingURLStringKey],                                           ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h:42:36: note: 'NSErrorFailingURLStringKey' declared hereFOUNDATION_EXPORT NSString * const NSErrorFailingURLStringKey NS_DEPRECATED(10_0, 10_6, 2_0, 4_0);                                   ^/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m:145:4: warning: 'createDirectoryAtPath:attributes:' is deprecated [-Wdeprecated-declarations]                [manager createDirectoryAtPath:basePath attributes:nil];                 ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172:1: note: method 'createDirectoryAtPath:attributes:' declared here- (BOOL)createDirectoryAtPath:(NSString *)path attributes:(NSDictionary *)attributes NS_DEPRECATED(10_0, 10_5, 2_0, 2_0);^/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m:150:4: warning: 'createDirectoryAtPath:attributes:' is deprecated [-Wdeprecated-declarations]                [manager createDirectoryAtPath:appSupportFolder attributes:nil];                         ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:172:1: note: method 'createDirectoryAtPath:attributes:' declared here- (BOOL)createDirectoryAtPath:(NSString *)path attributes:(NSDictionary *)attributes NS_DEPRECATED(10_0, 10_5, 2_0, 2_0);^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@42"'NSErrorFailingURLStringKey' is deprecated-384506180#18446744073709551615#0#1(2@42"'NSErrorFailingURLStringKey' declared here-384506180#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@182"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h0000000000000000^41#35#41#35#1915#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@86"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/AppController.m0000000000000000^114#43#114#43#3876#0#12"Deprecations--2@42"'NSErrorFailingURLStringKey' is deprecated-384506180#18446744073709551615#0#1(2@42"'NSErrorFailingURLStringKey' declared here-384506180#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@182"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSURLError.h0000000000000000^41#35#41#35#1915#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@86"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/AppController.m0000000000000000^126#43#126#43#4398#0#12"Deprecations--2@49"'createDirectoryAtPath:attributes:' is deprecated-384506180#18446744073709551615#0#1(2@56"Method 'createDirectoryAtPath:attributes:' declared here-384506180#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@185"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h0000000000000000^171#0#171#0#14454#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@86"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/AppController.m0000000000000000^144#3#144#3#5060#0#12"Deprecations--2@49"'createDirectoryAtPath:attributes:' is deprecated-384506180#18446744073709551615#0#1(2@56"Method 'createDirectoryAtPath:attributes:' declared here-384506180#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@185"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h0000000000000000^171#0#171#0#14454#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@86"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/AppController.m0000000000000000^149#3#149#3#5275#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@86"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/AppController.m0000000000000000^2698"CompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/AppController.o" AppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/localadmin/Downloads/Simple HTTP Server 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -fvisibility=hidden -Wno-sign-conversion "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Simple HTTP Server.hmap" "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/DerivedSources/i386" "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/DerivedSources" "-F/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release" -MMD -MT dependencies -MF "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/AppController.d" --serialize-diagnostics "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/AppController.dia" -c "/Users/localadmin/Downloads/Simple HTTP Server 2/AppController.m" -o "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/AppController.o"36"0803CB59-A46E-4142-81C3-B5C9EF460ED4-
+
+CCompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPConnection.o" "/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPConnection.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384506179.189574
+e384506180.462398
+r1
+xCompileC
+xbuild/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPConnection.o
+x/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPConnection.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPConnection.m:37:31: warning: 'stringWithCString:' is deprecated [-Wdeprecated-declarations]
+o            [self setAddress:[NSString stringWithCString:naddr]];
+o                              ^
+o/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363:1: note: method 'stringWithCString:' declared here
+o+ (id)stringWithCString:(const char *)bytes NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);
+o^
+o1 warning generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection79"Compile /Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPConnection.mb0c7304319ebb641^295d764419ebb641^-573"/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPConnection.m:37:31: warning: 'stringWithCString:' is deprecated [-Wdeprecated-declarations]            [self setAddress:[NSString stringWithCString:naddr]];                              ^/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:363:1: note: method 'stringWithCString:' declared here+ (id)stringWithCString:(const char *)bytes NS_DEPRECATED(10_0, 10_4, 2_0, 2_0);^1 warning generated.1(36%IDEClangDiagnosticActivityLogMessage2@34"'stringWithCString:' is deprecated-384506180#18446744073709551615#0#1(2@41"Method 'stringWithCString:' declared here-384506180#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@180"file://localhost/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h0000000000000000^362#0#362#0#24979#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@93"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/SimpleHTTPConnection.m0000000000000000^36#30#36#30#1233#0#12"Deprecations--0#0#0#-19%DVTDocumentLocation4@93"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/SimpleHTTPConnection.m0000000000000000^2740"CompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPConnection.o" SimpleHTTPConnection.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/localadmin/Downloads/Simple HTTP Server 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -fvisibility=hidden -Wno-sign-conversion "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Simple HTTP Server.hmap" "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/DerivedSources/i386" "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/DerivedSources" "-F/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release" -MMD -MT dependencies -MF "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPConnection.d" --serialize-diagnostics "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPConnection.dia" -c "/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPConnection.m" -o "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPConnection.o"36"326FE4FB-8D39-4D7B-9F38-8DE79442A66F-
+
+CCompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPServer.o" "/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPServer.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384506179.189564
+e384506180.499013
+r1
+xCompileC
+xbuild/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPServer.o
+x/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPServer.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection75"Compile /Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPServer.m1ade304319ebb641^9dbd7f4419ebb641^---0#0#0#-19%DVTDocumentLocation2@89"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/SimpleHTTPServer.m0000000000000000^2716"CompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPServer.o" SimpleHTTPServer.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/localadmin/Downloads/Simple HTTP Server 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -fvisibility=hidden -Wno-sign-conversion "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Simple HTTP Server.hmap" "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/DerivedSources/i386" "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/DerivedSources" "-F/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release" -MMD -MT dependencies -MF "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPServer.d" --serialize-diagnostics "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPServer.dia" -c "/Users/localadmin/Downloads/Simple HTTP Server 2/SimpleHTTPServer.m" -o "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/SimpleHTTPServer.o"36"FF9E0FA1-0028-4686-A939-9597BDDE1060-
+
+CCompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/main.o" "/Users/localadmin/Downloads/Simple HTTP Server 2/main.m" normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s384506179.189482
+e384506180.432207
+r1
+xCompileC
+xbuild/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/main.o
+x/Users/localadmin/Downloads/Simple HTTP Server 2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Compile /Users/localadmin/Downloads/Simple HTTP Server 2/main.m17b8304319ebb641^a4a56e4419ebb641^---0#0#0#-19%DVTDocumentLocation2@77"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/main.m0000000000000000^2644"CompileC "build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/main.o" main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/localadmin/Downloads/Simple HTTP Server 2"    setenv LANG en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.8 -fvisibility=hidden -Wno-sign-conversion "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Simple HTTP Server.hmap" "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/include" -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/DerivedSources/i386" "-I/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/DerivedSources" "-F/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release" -MMD -MT dependencies -MF "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/main.d" --serialize-diagnostics "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/main.dia" -c "/Users/localadmin/Downloads/Simple HTTP Server 2/main.m" -o "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/main.o"36"33DEABD4-E592-4A71-898C-AA42167C701A-
+
+CCopyStringsFile "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s384506178.534070
+e384506178.540484
+r1
+xCopyStringsFile
+x/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings8ee6884219ebb641^9d658a4219ebb641^---0#0#0#-19%DVTDocumentLocation2@102"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/English.lproj/InfoPlist.strings0000000000000000^443"CopyStringsFile "build/Release/Simple HTTP Server.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings    cd "/Users/localadmin/Downloads/Simple HTTP Server 2"    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Resources/English.lproj" -- English.lproj/InfoPlist.strings36"4D5B2DF2-6DA0-4342-BDF7-2401AD6458F8-
+
+CLd "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/MacOS/Simple HTTP Server" normal i386
+s384506180.505933
+e384506180.744032
+r1
+xLd
+x/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/MacOS/Simple HTTP Server
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Link /Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/MacOS/Simple HTTP Server0cae814419ebb641^4f77be4419ebb641^---0#0#0#--919"Ld "build/Release/Simple HTTP Server.app/Contents/MacOS/Simple HTTP Server" normal i386    cd "/Users/localadmin/Downloads/Simple HTTP Server 2"    setenv MACOSX_DEPLOYMENT_TARGET 10.8    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.8.sdk "-L/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release" "-F/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release" -filelist "/Users/localadmin/Downloads/Simple HTTP Server 2/build/SimpleHTTPServer.build/Release/Simple HTTP Server.build/Objects-normal/i386/Simple HTTP Server.LinkFileList" -mmacosx-version-min=10.8 -fobjc-link-runtime -framework Cocoa -framework WebKit -o "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/MacOS/Simple HTTP Server"36"3B3321D1-9151-4305-A442-F9C53607FE1C-
+
+CProcessInfoPlistFile "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Info.plist" Info.plist
+s384506178.521309
+e384506178.525741
+r1
+xProcessInfoPlistFile
+x/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Info.plist
+xInfo.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plist1f9e854219ebb641^c895864219ebb641^---0#0#0#-19%DVTDocumentLocation2@81"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/Info.plist0000000000000000^455"ProcessInfoPlistFile "build/Release/Simple HTTP Server.app/Contents/Info.plist" Info.plist    cd "/Users/localadmin/Downloads/Simple HTTP Server 2"    builtin-infoPlistUtility Info.plist -genpkginfo "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/PkgInfo" -expandbuildsettings -platform macosx -o "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Info.plist"36"F63BB63E-D0E1-4E34-B9B5-3B2C84B01F17-
+
+CStripNIB "/Users/localadmin/Downloads/Simple HTTP Server 2/English.lproj/MainMenu.nib"
+s384506178.534009
+e384506179.181301
+r1
+xStripNIB
+x/Users/localadmin/Downloads/Simple HTTP Server 2/English.lproj/MainMenu.nib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Processing /Users/localadmin/Downloads/Simple HTTP Server 2/English.lproj/MainMenu.nib65e4884219ebb641^c26c2e4319ebb641^---0#0#0#-19%DVTDocumentLocation2@98"file://localhost/Users/localadmin/Downloads/Simple%20HTTP%20Server%202/English.lproj/MainMenu.nib/0000000000000000^502"StripNIB English.lproj/MainMenu.nib    cd "/Users/localadmin/Downloads/Simple HTTP Server 2"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --strip "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app/Contents/Resources/English.lproj/MainMenu.nib" --output-format human-readable-text "/Users/localadmin/Downloads/Simple HTTP Server 2/English.lproj/MainMenu.nib"36"A72462A2-F84F-410B-A18A-62124CC88DFE-
+
+CTouch "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app"
+s384506180.752206
+e384506180.763428
+r1
+xTouch
+x/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Touch /Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.appd6abc04419ebb641^7172c34419ebb641^---0#0#0#--213"Touch "build/Release/Simple HTTP Server.app"    cd "/Users/localadmin/Downloads/Simple HTTP Server 2"    /usr/bin/touch -c "/Users/localadmin/Downloads/Simple HTTP Server 2/build/Release/Simple HTTP Server.app"36"DC16B448-7ECE-4755-8F64-7BB7D084DF7C-
+
